@@ -7,8 +7,8 @@
 
 
 
-### 🗓️ 풀이 기록 (Lv.0)
-| 주차 | 문제1| 문제2 | 문제3 |
-|------|------|-------|-------|
-| 1주차 | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [홀짝 문제](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [택배 상자 꺼내기 ](https://school.programmers.co.kr/learn/courses/30/lessons/389478) |
-| 2주차 |  |
+### 🗓️ 풀이 기록 
+| 주차   | 문제1 | 문제2 | 문제3 |
+|--------|-------|--------|--------|
+| 1주차 | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [홀짝 문제](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) |
+| 2주차 | [콜라츠수열만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | - | - |
