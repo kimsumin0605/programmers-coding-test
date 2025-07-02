@@ -22,7 +22,7 @@ function solution(n) {
     n = (n%2 ===0)? n/2 : 3*n + 1;
   }
   answer.push(1);
-  console.log(answer);
+//console.log(answer);
   return answer;
 };
 
