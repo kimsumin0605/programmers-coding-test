@@ -23,9 +23,9 @@ rl.on('line', function (line) {
 }).on('close',function(){
     str = input[0];
     
-    let reverse = '';
-    for (let r of str){
-        reverse += r === r.toLowerCase()?r.toUpperCase():r.toLowerCase();
+    let converted = '';
+    for (let c of str){
+        converted += c === c.toLowerCase()?c.toUpperCase():c.toLowerCase();
     }
-    console.log(reverse)
+    console.log(converted);
 });
