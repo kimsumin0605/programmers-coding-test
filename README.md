@@ -13,4 +13,6 @@
 | 1주차 | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [홀짝](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) |
 | 2주차 | [콜라츠수열만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | [마지막두원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)|
 |  |[a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) |[문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950)|[대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)|
+| 3주차 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | - | - |
+
 
