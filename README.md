@@ -14,6 +14,6 @@
 | 2주차 | [콜라츠수열만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | [마지막두원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)|
 |  |[a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) |[문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950)|[대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)|
 | 3주차 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | - | - |
-| 4주차 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | - | - |
+| 4주차 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| - |
 
 
