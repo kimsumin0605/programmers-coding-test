@@ -6,14 +6,3 @@
 함수형 사고, 알고리즘 설계, 자료구조 응용 능력을 키워나가기 위한 학습 공간입니다.
 
 
-
-### 🗓️ 풀이 기록 
-| 주차   | 문제1 | 문제2 | 문제3 |
-|--------|-------|--------|--------|
-| 1주차 | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [홀짝](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) |
-| 2주차 | [콜라츠수열만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | [마지막두원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)|
-|  |[a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) |[문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950)|[대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)|
-| 3주차 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | - | - |
-| 4주차 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)| - |
-
-
