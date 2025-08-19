@@ -6,8 +6,8 @@
  */
 
 function solution(n, k) {
-    const free = Math.trunc(n/10);
-    return (n *12000) + ((k - free) * 2000);
+  const free = Math.trunc(n / 10);
+  return (n * 12000) + ((k - free) * 2000);
 }
 
 /**
